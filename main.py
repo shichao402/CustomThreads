@@ -5,8 +5,8 @@ from abc import ABC, abstractmethod
 NAME = "3D-printed Metric Threads V3"
 UNIT = "mm"
 ANGLE = 60.0
-SIZES = list(range(8, 51))
-PITCHES = [3.5, 5.0]
+SIZES = list(range(3, 51))
+PITCHES = [1,1.5,2,2.5,3,3.5,4,4.5, 5.0]
 OFFSETS = [.0, .1, .2, .4, .8]
 
 
