@@ -7,7 +7,7 @@ UNIT = "mm"
 ANGLE = 90.0
 SIZES = list(range(3, 100))
 PITCHES = [1,1.5,2,2.5,3,3.5,4,4.5, 5.0, 6.0]
-OFFSETS = [.0, .1, .2, .4, .5, .6, .7, .8]
+OFFSETS = [.0, .1, .2, .3, .4, .5, .6, .7, .8]
 
 
 def designator(val: float):
